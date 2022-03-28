@@ -6,7 +6,7 @@ function mostrarLetras(palabra, num){
         console.log(palabra[i]);
         delay(num)
     }
-    /* clearInterval(mostrarLetras) */
+    
     console.log('Fin del programa');
     
 }
