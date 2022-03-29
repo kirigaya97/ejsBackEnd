@@ -1,0 +1,33 @@
+Archivo => 'Class.js' => class Contenedor{}
+        |
+        => save(object), getById(number), getAll(Object), deleteById(number), deleteAll()
+
+    save 
+    {
+        -> Recibe un objeto
+        -> Lee archivo
+        -> Pide un ID (En espera)
+            -> Pushea ID en el objeto(En espera)
+            -> ID = archivo.lenght + 1
+        -> Encuentra el archivo
+            
+        -> 
+
+
+
+        -> this.objeto.push('id: )
+        -> a = JSON.Stringify(Objeto)
+        -> writeFile('archivo', 'a')
+
+    }
+    => id = arhivo.lenght +1 || 1
+    getById
+
+
+    producto: {
+        title:'nombre',
+        price: int
+        thumbnail: 'url'
+    }
+
+

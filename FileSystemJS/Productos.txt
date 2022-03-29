@@ -1,0 +1,5 @@
+{"title":"Cajita","price":250,"thumbnail":"https://www.distribuidorapop.com.ar/wp-content/uploads/2020/08/picador-acrilico-mini-colores-precios.jpg","id":1}
+{"title":"Puerta","price":526,"thumbnail":"https://www.distribuidorapop.com.ar/wp-content/uploads/2020/08/picador-acrilico-mini-colores-precios.jpg","id":2}
+{"title":"Pato","price":287,"thumbnail":"https://www.distribuidorapop.com.ar/wp-content/uploads/2020/08/picador-acrilico-mini-colores-precios.jpg","id":3}
+{"title":"Corneta","price":652,"thumbnail":"https://www.distribuidorapop.com.ar/wp-content/uploads/2020/08/picador-acrilico-mini-colores-precios.jpg","id":4}
+{"title":"Guitarra","price":8026,"thumbnail":"https://www.distribuidorapop.com.ar/wp-content/uploads/2020/08/picador-acrilico-mini-colores-precios.jpg","id":5}
