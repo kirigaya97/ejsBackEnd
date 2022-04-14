@@ -1,0 +1,38 @@
+[
+    {
+        "id": 11,
+        "nombre": "Bee Playing Cards",
+        "precio": 1200,
+        "thumbnail": "https://m.media-amazon.com/images/I/813yTqy94sL._AC_SL1454_.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Bicycle Seconds Playing Cards",
+        "precio": 1200,
+        "thumbnail": "https://m.media-amazon.com/images/I/Seconds.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Aviator Playing Cards",
+        "precio": 550,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0480/5473/0903/products/Aviator_a3a75e98-a86a-4a07-8b0e-c8fed03ed50b_2048x2048.jpg?v=1621225290"
+    },
+    {
+        "id": 14,
+        "nombre": "Bicycle Standard Playing Cards",
+        "precio": 670,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0480/5473/0903/products/Standard.jpeg"
+    },
+    {
+        "id": 15,
+        "nombre": "Phoenix Playing Cards",
+        "precio": 1100,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0480/5473/0903/products/phoenix"
+    },
+    {
+        "id": 14,
+        "nombre": "Bicycle Dragon Back Playing Cards",
+        "precio": 1200,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0480/5473/0903/products/dragonBack.jpeg"
+    }
+]
